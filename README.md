@@ -38,5 +38,5 @@ The notebook demonstrates a complete workflow involving:
 
 ---
 
-## 🗂️ File Structure
+
 
